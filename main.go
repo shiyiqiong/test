@@ -1,1 +1,5 @@
-hello world11123
+package main
+
+func main() {
+
+}
